@@ -17,7 +17,7 @@
 
   $programming_languages = ["PHP", "Javascript", "Python", "Ruby"];
   $frameworks = ["Laravel", "Angular", "Vue", "Ionic - Angular"]:
-  $ui = ["Bootstrap", "Vuetify"]:
+  $ui = ["Bootstrap", "Vuetify", "Tailwind"]:
   
 ?>
 ```
